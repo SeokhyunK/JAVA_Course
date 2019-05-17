@@ -1,0 +1,10 @@
+Arbol
+Manzana
+Espacio
+Borrador
+Silla
+Coche
+Cerveza
+Lapiz
+Nubes
+Naranja
